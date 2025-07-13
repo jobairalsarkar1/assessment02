@@ -1,3 +1,32 @@
+# Assessment 02
+
+1. Clone the repo:
+
+```bash
+git clone git@github.com:jobairalsarkar1/assessment02.git
+cd assessment02
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Run the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 # Task 02: Real-Time Location Sharing
 
 This project is a real-time location sharing app built with **Next.js 15**, **SignalR**, and **Leaflet.js**. It features two main components: a **Location Sender** that shares a user’s location in real time, and a **Location Receiver** that listens for and displays those updates on a map.
