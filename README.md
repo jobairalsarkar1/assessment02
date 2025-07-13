@@ -69,6 +69,7 @@ Renders an interactive map using Leaflet. When a new location is received, it an
 * The server SignalR hub URL used is: `https://tech-test.raintor.com/Hub`
 * GPS coordinates are simulated if actual location permission is denied.
 * The map is only rendered on the client side to prevent SSR issues.
+* I did took help from AI tool in task 2.
 
 ---
 
